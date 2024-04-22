@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "javascriptfolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
